@@ -1,0 +1,32 @@
+
+[font]
+normal = { family = "RecMonoLinear Nerd Font Mono" }
+size = 11.5
+
+[window]
+opacity = 0.85
+
+[colors.primary]
+foreground = "#ffffff"
+background = "#000000"
+
+[colors.normal]
+black = "#000000"
+white = "#cccccc"
+red = "#dd6666"
+green = "#88dd88"
+yellow = "#ffff77"
+blue = "#9999ff"
+magenta = "#ffaaff"
+cyan = "#99dddd"
+
+[colors.bright]
+black = "#444444"
+white = "#ffffff"
+red = "#ff8888"
+green = "#88dd88"
+yellow = "#ffff77"
+blue = "#9999ff"
+magenta = "#ffaaff"
+cyan = "#99dddd"
+
